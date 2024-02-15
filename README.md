@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yaminrk081@gmail.com**
 
-- ⚡ Fun fact **I used to be a competetive esports player**
+- ⚡ Fun fact: **I used to be a competetive Esports player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
