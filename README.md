@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yamin</h1>
 <h3>A passionate full stack developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **next.js and AWS**
+- 🌱 I’m currently mastering **React and Tailwind**
 
 - 💬 Ask me about **react**
 
